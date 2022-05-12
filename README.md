@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mark-Yeatman
 - 👀 I’m interested in ... Robotics, Human-Machine Interaction, Machine-Learning, Biomechanics, and Computer Vision (in that order)
-- 🌱 I’m currently learning ... Rust (and how to explode things with my mind)
-- 💞️ I’m looking to collaborate on ... making a Robotics Sim in Rust
+- 🌱 I’m currently learning ... Rust.
+- 💞️ I’m looking to collaborate on ... anything interesting. 
 - 📫 How to reach me ... mark-yeatman@gmail.com
 
 <!---
